@@ -8,7 +8,7 @@ The code for the course can be found at https://app.pluralsight.com/library/cour
 No recent updates.
 
 ## Questions / Comments / Concerns
-I you like the course, please rate it, and consider dropping me a note in the `discussion` section on the course page or on twitter.
+If you like the course, please rate it, and consider dropping me a note in the `discussion` section on the course page or on twitter.
 
 If you have problems with the code, please let me know.
 
